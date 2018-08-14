@@ -13,17 +13,17 @@ We know that getting used to a new tool can take some time, so we'll walk you th
 ## What is Languages.ai?
 
 **Languages.ai** is a language learning tool that focuses on reading to improve your languages skills and grow your vocabulary.
-In a word, it helps you find content adapted to your level and interest and gives you the opportunity to acquire the words you don't know and to build your personal lexicon.
+In a word, it helps you find content adapted to your level and interests and gives you the opportunity to acquire the words you don't know and to build your personal lexicon.
 
-#### Who was Languages.ai made for?
+#### Who is Languages.ai made for?
 
-**Languages.ai** is aimed for people having intermediary to very advanced level. On the [CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages ":ignore title") scale, our users needs to be at least B1. Indeed, our users need to be able to go through easy natural texts without to much difficulty to have any interest using our solution. 
+**Languages.ai** is for people having intermediary to very advanced level. On the [CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages ":ignore title") scale, our users need to be at least B1. Indeed, our users need to be able to go through easy natural texts without too much difficulty to have any interest using our solution. 
 
 # Quick start
 
 ## Sign up
 
-First thing you will need to use Languages.ai is an account on the platform. you can register [here]( ":ignore title") with your email address and username.
+First thing you will need to use Languages.ai is an account on the platform. You can register [here]( ":ignore title") with your email address and username.
 You will have to enter your mother tongue and the language you want to improve in. 
 
 *If you already have an account, [log in]( ":ignore title"). if you have forgotten your password, [reset it]( ":ignore title"). *
@@ -36,21 +36,21 @@ You will have to enter your mother tongue and the language you want to improve i
 
 #### Add a Word
 
-First, you need to enter the word you need to translate
+First, you need to enter the word you need to translate.
 
 ![Enter a word](_media/p_w_enter_word.png)
 
 
 #### Choose the translation sense
 
-If you prefer to start from your learning language instead of your mother tongue, click on the translation sense e.g `En>Fr` to switch it
+If you prefer to start from your learning language instead of your mother tongue, click on the translation sense e.g `En>Fr` to switch it.
 
 ![Switch translation sense](_media/p_w_change_language.png)
 
 
 #### Add your own translation
 
-When you have entered a word, its translations will be displayed below. click on the line corresponding to the translation you would like to learn to save it to you account. You can save as much translations as you want. 
+When you have entered a word, its translations will be displayed below. Click on the line corresponding to the translation you would like to learn to save it to you account. You can save as much translations as you want. 
 
 ![Add own translation](_media/p_w_add_word.png)
 
@@ -63,7 +63,7 @@ Once you have entered your translation, hit the `Enter` key to save it.
 
 #### Sort your words
 
-To sort your words, click on the colomn title you want your words sorted by. Click again to have a descending sort
+To sort your words, click on the column title you want your words sorted by. Click again to have a descending sort.
 
 ![Switch translation sense](_media/p_w_sort_words.png)
 
@@ -90,7 +90,7 @@ To review a word, spell its translation in the input below it.
 
 ![Flashcard](_media/p_r_flashcard.png ':size=300px')
 
-!> :bulb: __tip__ <br/> The input width is matching the width of the expected translation so you can figure out which particular translation we want you to give. here `rigid` or `stiff` would be too short, on the contrary its figurative sense `hidebound` fits in so it must be the expected translation.<br/><br/>![Flashcard](_media/p_r_flashcard_2.png ':size=150px')
+!> :bulb: __tip__ <br/> The input width is matching the width of the expected translation so you can figure out which particular translation we want you to give. Here `rigid` or `stiff` would be too short, on the contrary its figurative sense `hidebound` fits in so it must be the expected translation.<br/><br/>![Flashcard](_media/p_r_flashcard_2.png ':size=150px')
 
 #### Reviewing options
 
@@ -98,16 +98,16 @@ Below the input, you can see multiple options:
 
 ![Options](_media/p_r_options.png ':size=300px')
 
-* the `pencil` :pencil2:  icon enables to edit the words you learn, it is only available when you have reviewed it and got the answer.
+* the `pencil` :pencil2:  icon enables you to edit the words you learn, it is only available when you have reviewed it and got the answer.
 
 * the `left and right arrows` :left_right_arrow: icon enables you to switch the language, to review from your learning language instead of from your mother tongue.
 
-* the `buoy` :o: icon gives you the first and last letter of the words to hint you towards its translation.<br/>
+* the `buoy` :o: icon gives you the first and last letter of the word to hint you towards its translation.<br/>
 
 ![Help](_media/p_r_help.png ':size=200px')<br/>
 *Must be `springboard` then...*
 
-* the `eye` :eyes: icon will hide the level 0 words, if you don't want to see them while you review.
+* the `eye` :eyes: icon will hide the level-0-words, if you don't want to see them while you review.
 
 | ![visible](_media/p_r_0.png ':size=200px') | ![hidden](_media/p_r_0_hidden.png ':size=200px') |
 | --- | --- |
@@ -136,7 +136,7 @@ The percentage in the blue bubble gives you your success rate.
 
 ### Lists
 
-*Lists are here to help you organize your words*
+*Lists are here to help you organize your words.*
 
 #### Create a list
 
@@ -161,7 +161,7 @@ Your newly created list shoud have appear under `Lists` in your menu. For now, i
 
 ##### From the list
 
-Rings a bell? It looks just like when you are on you words. And it works in the same way except this time, the words you add are saved not only in all your words but also in the list you are in. 
+Rings a bell? It looks just like when you are on you words. And it works in the same way, except this time the words you add are saved not only in all your words but also in the list you are in. 
 
 ![Create list](_media/p_l_list_view.png)
 
@@ -171,8 +171,8 @@ Rings a bell? It looks just like when you are on you words. And it works in the 
 
 ###### Drag and drop a word
 
-To do so, click on the word you want to put in a list and drag and drop it on the list you want it in by holding you click and moving your cursor.
-The name of the list where it will be drop will slightly move telling you you are on the right one. 
+To do so, click on the word you want to put in a list and drag and drop it on the list you want it in by holding your click and moving your cursor.
+The name of the list where it will be drop will slightly move, telling you you are on the right one. 
 
 ![Drag and drop](_media/p_l_drag_drop.png)
 
@@ -215,7 +215,7 @@ When you are in the left sidebar, right-clicking on a list name shows you a quit
 
 ![Contextual menu](_media/p_l_context.png ':size=250px')
 
-As all actions are quite explicit, we don't go further in detail here.
+As all actions are quite explicit, we won't go further in detail here.
 
 ##### Drag and drop for lists
 
@@ -233,7 +233,7 @@ When dropping a list onto another one, you will see this modal:
 
 ### Articles
 
-*The articles part is here to store articles in your learning language that might be of interest for you*
+*The articles part is here to store articles in your learning language that might be of interest for you.*
 
 #### Go to the articles part
 
@@ -297,7 +297,7 @@ If you already have some words saved, chances are that some of the words of the 
 
 ![Highlighted](_media/p_a_highlight.png)
 
-These words are the ones you are learning and need to review. Let's click on `rummages` to review it.
+These words are the ones you are learning and you need to review. Let's click on `rummages` to review it.
 
 ![Highlighted](_media/p_a_review.png ':size=250px')
 
@@ -315,7 +315,7 @@ There, you will be able to find and copy their words and lists.
 
 #### Add their words
 
-You can copy a word from a user by click on the green cross on the right of its line. Also, in the same way as for your putting words in your lists, you can select words dans drag and drop them to your own lists.
+You can copy a word from a user by clicking on the green cross on the right of its line. Also, in the same way as you put your words in your lists, you can select their words and drag and drop them to your own lists.
 
 ![User profile](_media/p_u_profile.png)
 
@@ -327,13 +327,13 @@ To see what's inside a list, click on its name. If you deem it good enough to be
 
 #### Drag and drop
 
-Also, in the same way as you can put words in your lists, you can select words dans drag and drop them to your own lists. Finally, you can also merge or nest a list from another user by dropping it on one of your list.  
+Also, in the same way as you can put words in your lists, you can select words dans drag and drop them to your own lists. Finally, you can also merge or nest a list from another user by dropping it on one of your lists.  
 
 ### Languages.ai for teachers and classes
 
 #### Teacher account
 
-*Teacher accounts are specific accounts that let teachers share their content (articles, list and words) with their students and enable them to monitor their students' progress*
+*Teacher accounts are specific accounts that let teachers share their content (articles, list and words) with their students and enable them to monitor their students' progress.*
 
 If you have a teacher account, you will be able to see the classes you are in charge of below your lists:
 
@@ -341,15 +341,15 @@ If you have a teacher account, you will be able to see the classes you are in ch
 
 If you want to see all your classes, click on `CLASSES`. If you want to see students from a specific class, click on its name.
 
-When you click on `CLASSES`, you land on a sharing panel :
+When you click on `CLASSES`, you land on a sharing panel:
 
 ![Menu class](_media/p_t_view.png)
 
-you can chose what kind of thing you would like to share by clicking on one of the tabs:
+You can choose what kind of thing you would like to share by clicking on one of the tabs:
 
 ![Menu class](_media/p_t_menu2.png  ':size=350px')
 
-And then, again, a good old drag-and-drop will let you share an articles/lists/words with a group.
+And then, again, the good old drag-and-drop will let you share articles/lists/words with a group.
 
 ![Menu class](_media/p_t_dnd.png)
 
@@ -359,9 +359,9 @@ When you click on one of the groups, you can share content with specific student
 
 #### Student account
 
-*Users who are in a class can share their content with their classmates*
+*Users who are in a class can share their content with their classmates.*
 
-To share a list, right-click on its name and click on `share list`, you will then have to choose if you want to share it with the whole class or with specific classmate, if as a student you send something to the whole class, your teacher will also be able to receive it. 
+To share a list, right-click on its name and click on `share list`, you will then have to choose if you want to share it with the whole class or with specific classmates, if as a student you send something to the whole class, your teacher will also be able to receive it. 
 
 ![Menu class](_media/p_t_share.png  ':size=250px')
 
@@ -375,7 +375,7 @@ In the same way, you can select words and share them with you class: click on al
 
 *Our extension is available on Chrome, Firefox and Safari*
 
-If you haven't our extension yet, here are the links where you can get it: 
+If you haven't installed our extension yet, here are the links where you can get it: 
 
 [Get it for Chrome](https://chrome.google.com/webstore/detail/languagesai-extension/ocjbabgnfnblhgpddnnlhccmihnlombj ":ignore title") - [Get it for Firefox](https://addons.mozilla.org/fr/firefox/addon/languages-ai-extension/ ":ignore title") - [Get it for Safari](https://safari-extensions.apple.com/details/?id=www.languages.ai-Q6TC99QXA7 ":ignore title")
 
@@ -390,15 +390,15 @@ Clicking on the icon will open the translator on any webpage and let you transla
 
 ![Translator](_media/p_e_translator.png ':size=400px')
 
- * if you click on the arrow down icon :arrow_down_small: next to your learning language, you can change the language you are currently translating in. You can only choose one of the languages your have elected on the platform. 
+ * if you click on the arrow down icon :arrow_down_small: next to your learning language, you can change the language you are currently translating in. You can only choose one of the languages your have added on the platform. 
 
- * if you click on the left and right arrow icon :left_right_arrow:, you reverse the translation sens (i.e. starting from you learning language instead of your mother tongue)
+ * if you click on the left and right arrow icon :left_right_arrow:, you reverse the translation languages (i.e. starting from you learning language instead of your mother tongue).
 
  * if you already have lists, prior to saving a word, you can choose a list you would like to put the word in by clicking on `No list selected` and selecting one of your lists.
 
- * clicking on the bookmark icon, on the top right of the translator, will save the webpage to your "articles"
+ * clicking on the bookmark icon, on the top right of the translator, will save the webpage to your "articles".
 
- * clicking on the sound icon :sound: will let you listen to the word you are translating
+ * clicking on the sound icon :sound: will let you listen to the word you are translating.
 
 
 The translations, highlightings, and reviewing processes works in the same way as [in the article part](?id=translate-words-while-you-read) of the web platform.
