@@ -3475,9 +3475,8 @@ function scrollTo(el) {
   if (scroller) {
     scroller.stop();
   }
-  console.log('el')
-  console.log(el)
   el.scrollIntoView()
+  // scroll smooth to be worked out there
   return;
   enableScrollEvent = false;
   scroller = new Tweezer({
