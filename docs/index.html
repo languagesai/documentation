@@ -115,9 +115,14 @@ box-shadow: 5px 11px 40px 2px rgba(0,0,0,0.05);
       logo: '/_media/languages.svg',
       search: {
         maxAge: 86400000, // Expiration time, the default one day
-        paths: 'auto', // or 'auto'
-        placeholder: 'Search',
-        depth: 6
+        depth: 6,
+        paths: [], // or 'auto'
+        placeholder: 'Search...',
+        // Localization
+        placeholder: {
+          '/fr/': 'Rechercher...',
+          '/': 'Search...'
+        }
       }
     }
   </script>

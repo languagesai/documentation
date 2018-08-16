@@ -25,13 +25,13 @@ En deux mots, on vous aide à trouver les contenus adaptés à vos centres d'int
 
 La première chose dont vous aurez besoin pour utiliser languages est un compte sur la plateforme. 
 Vous pouvez vous inscrire [ici](https://www.languages.ai/#signup-or-login ":ignore title") avec votre email et un nom d'utilisateur.
-You will have to enter your mother tongue and the language you want to improve in. 
+Vous devrez renseigner votre langue natale et la langue dans laquelle vous désirez vous améliorer. 
 
 *Si vous avez déjà un compte, [connectez-vous](https://www.languages.ai/ ":ignore title"). Si vous avez oublié votre mot de passe, [réinitialisez-le](https://www.languages.ai/ ":ignore title").*
 
 ## Visite de la plateforme
 
-*Languages.ai est fait de nombreuses parties. Commençons avec la plateforme web. Desssus, vous pouvez retrouver et organiser vos mots, listes et articles. Vous pouvez aussi réviser vos mots un part un ou via vos articles enregistrés.*
+*Languages.ai est fait de nombreuses parties. Commençons avec la plateforme web. Dessus, vous pouvez retrouver et organiser vos mots, listes et articles. Vous pouvez aussi réviser vos mots un par un ou via vos articles enregistrés.*
 
 ### Les mots
 
@@ -44,7 +44,7 @@ Vous devez commencer par saisir le mot que vous souhaitez traduire.
 
 #### Choisissez votre sens de traduction
 
-Si vous préférez partir de votre langue d'apprentissage plutôt que de votre langue maternel, cliquez sur le sens de traduction (e.g `En>Fr`)
+Si vous préférez partir de votre langue d'apprentissage plutôt que de votre langue maternelle, cliquez sur le sens de traduction (e.g `En>Fr`)
 pour l'inverser.
 
 ![Switch translation sense](../_media/p_w_change_language.png)
@@ -52,7 +52,7 @@ pour l'inverser.
 
 #### Ajoutez votre propre traduction
 
-Quand vous avez saisi un mot, ses traduction apparaissent dessous. Cliquez sur la ligne correspondant à l'acception que vous désirez apprendre pour l'enregistrer. Vous pouvez enregistrer toutes les traductions que vous voulez. 
+Quand vous avez saisi un mot, ses traductions apparaissent dessous. Cliquez sur la ligne correspondant à l'acception que vous désirez apprendre pour l'enregistrer. Vous pouvez enregistrer toutes les traductions que vous voulez. 
 
 ![Add own translation](../_media/p_w_add_word.png)
 
@@ -70,7 +70,7 @@ Pour trier vos mots, cliquez sur la colonne correspondant à l'index de tri qui 
 
 #### Retourner sur les mots
 
-Depuis n'importe quelle page du site, retrouvez vos mots en cliquand sur `MOTS` dans la barre de menu sur la gauche :
+Depuis n'importe quelle page du site, retrouvez vos mots en cliquant sur `MOTS` dans la barre de menu sur la gauche :
 
 ![Switch translation sense](../_media/p_w_go_to_words.png ':size=300px')
 
@@ -81,7 +81,7 @@ Depuis n'importe quelle page du site, retrouvez vos mots en cliquand sur `MOTS` 
 
 #### Aller sur la partie révision
 
-Si vous avez des mots à réviser, un bouton va apparaître en haute de votre écran. Cliquez dessus pour réviser vos mots.
+Si vous avez des mots à réviser, un bouton va apparaître en haut de votre écran. Cliquez dessus pour réviser vos mots.
 
 ![Review](../_media/p_r_review.png)
 
@@ -132,7 +132,7 @@ Le pourcentage dans la bulle bleu vous donne votre taux de succès.
 
 #### À propos de notre système de niveau.
  
-?> :information_desk_person: __info__ <br/>Les mots ont des niveau allant de 0 (inconnu) à 5 (Maîtrisé). Le niveau d'un mot correspond à la connaissance que vous en avez et est déterminé par vos révisions consécutives de celui-ci. À chaque fois que vous avez bon à une révision le niveau s'incrémente, à chaque vois que vous vous trompez le niveau redescend. Plus vous connaissez un mot, moins vous aurez besoin de le réviser ; pour cette raison, notre algorithme de répétition espacée insistera sur les mots que vous connaissez le moins et les mots mieux connus apparaitront moins pendant les sessions de révisions.
+?> :information_desk_person: __info__ <br/>Les mots ont des niveaux allant de 0 (inconnu) à 5 (maîtrisé). Le niveau d'un mot correspond à la connaissance que vous en avez et est déterminé par vos révisions consécutives de celui-ci. À chaque fois que vous avez bon à une révision le niveau s'incrémente, à chaque vois que vous vous trompez le niveau redescend. Plus vous connaissez un mot, moins vous aurez besoin de le réviser ; pour cette raison, notre algorithme de répétition espacée insistera sur les mots que vous connaissez le moins et les mots mieux connus apparaitront moins pendant les sessions de révisions.
 
 
 ### Les listes
@@ -141,11 +141,11 @@ Le pourcentage dans la bulle bleu vous donne votre taux de succès.
 
 #### Créer une liste
 
-Pour créer une list, cliquez sur `Listes` comme montré ici:
+Pour créer une liste, cliquez sur `Listes` comme montré ici:
 
 ![Create list](../_media/p_l_create_list.png  ':size=300px')
 
-1. Donnez lui un nom 
+1. Donnez lui un nom.
 2. Cliquez sur créer liste.
 
 ![Create list](../_media/p_l_create_list_2.png  ':size=500px')
@@ -154,7 +154,7 @@ Parfait, vous avez votre première liste.
 
 #### Consulter une liste.
 
-Votre nouvelle liste doit être appary sous le mot `Listes` dans votre menu, Pour le moment, elle ne contient pas de mots. Cliquez sur son nom pour aller sur la liste. 
+Votre nouvelle liste doit être apparue sous le mot `Listes` dans votre menu. Pour le moment, elle ne contient pas de mots. Cliquez sur son nom pour aller sur la liste. 
 
 
 ![Create list](../_media/p_l_go_to_list.png  ':size=300px')
@@ -163,7 +163,7 @@ Votre nouvelle liste doit être appary sous le mot `Listes` dans votre menu, Pou
 
 ##### Depuis la page de la liste
 
-Ici, on retrouve un schéma proche de celui connu au moment de l'ajout de mot. Le fonctionnement est le même mais les mots ajoutés ici seront aussi inclus à liste consultée. 
+Ici, on retrouve un schéma proche de celui connu au moment de l'ajout de mot. Le fonctionnement est le même mais les mots ajoutés ici seront aussi inclus à la liste consultée. 
 
 ![Create list](../_media/p_l_list_view.png)
 
@@ -173,7 +173,7 @@ Ici, on retrouve un schéma proche de celui connu au moment de l'ajout de mot. L
 
 ###### "glisser-déplacer" un mot
 
-Pour se faire, cliquez sur le mot que vous voulez mettre dans une liste et, en maintenant votre clic, déplacez-le sur le nom de la liste dans laquelle vous désirez le mettre. Quand le mot arrivera sur le nom de la liste concernée, ce dernier va bouger légèrement pour vous indiquer que vous êtes arrivé(e) à destination : vous pouvez alors relâcher votre clic.
+Pour se faire, cliquez sur le mot que vous voulez mettre dans une liste et, en maintenant votre clic, déplacez-le sur le nom de la liste dans laquelle vous désirez le mettre. Quand le mot arrivera sur le nom de la liste concernée, cette dernière va bouger légèrement pour vous indiquer que vous êtes arrivé(e) à destination : vous pouvez alors relâcher votre clic.
 
 
 ![Drag and drop](../_media/p_l_drag_drop.png)
@@ -185,7 +185,7 @@ Vous pouvez aussi "glisser-déplacer" plusieurs mots à la fois. Pour sélection
 
 ![Select multiple](../_media/p_l_multiple.png)
 
-Quand vous avez selectionné tous les mots que vous voulez mettre dans votre liste, cliquer sur n'importe lequel des mots et effectuez votre "glisser-délplacer" comme expliqué précédemment. 
+Quand vous avez selectionné tous les mots que vous voulez mettre dans votre liste, cliquez sur n'importe lequel des mots et effectuez votre "glisser-délplacer" comme expliqué précédemment. 
 
 ![Drag and drop](../_media/p_l_drag_drop_2.png)
 
@@ -208,7 +208,7 @@ Quand vous consultez une liste, vous avez des options à côté du nom de la lis
 
 * Le `crayon` :pencil2: vous permet de renommer la liste.
 
-* L'icône `listes` :clipboard: permet de créer des sous-listes, pour les plus organisés d'entre vous.
+* L'icône `listes` :clipboard: permet de créer des sous-listes, pour les plus organisé(e)s d'entre vous.
 
 * La `poubelle` :put_litter_in_its_place: permet de supprimer une liste. À utiliser avec précaution.
 
@@ -222,11 +222,11 @@ Comme les actions sont particulièrement explicites, nous vous laissons le soins
 
 ##### "glisser-déplacer" des listes dans des listes
 
-De la même manière que vous pouvez glisser-déplacer des mots dans les listes, vous pouvez glisser-déplacer des listes dans des listes pour les fusionner où les imbriquer. 
+De la même manière que vous pouvez glisser-déplacer des mots dans les listes, vous pouvez glisser-déplacer des listes dans des listes pour les fusionner ou les imbriquer. 
 
 ![Drag and drop fors lists](../_media/p_l_drag_drop_list.png ':size=250px')
 
-Quand vous lâcher une liste sur une autre liste un panneau apparaît : 
+Quand vous lâchez une liste sur une autre liste un panneau apparaît : 
 
 ![Merging lists](../_media/p_l_merge.png ':size=500px')
 
@@ -236,7 +236,7 @@ Quand vous lâcher une liste sur une autre liste un panneau apparaît :
 
 ### Les articles
 
-*La partie article sert a stocké les articles dans votre langue d'apprentissage qui vous intéresse, notamment pour les lire plus tard.*
+*La partie article sert à stocker les articles dans votre langue d'apprentissage qui vous intéresse, notamment pour les lire plus tard.*
 
 #### Aller dans la partie articles
 
@@ -254,7 +254,7 @@ Puis collez le lien de l'article que vous voulez ajouter et cliquez sur "entrer"
 
 ![Add articles](../_media/p_a_add2.png ':size=500px')
 
-Votre articles a été ajouté.
+Votre article a été ajouté.
 
 #### Lire un article
 
@@ -289,11 +289,11 @@ Pour le traduire, double-cliquez dessus, ou sélectionnez le texte à traduire, 
 
 
 
-Vous avez toujours la possibilité d'ajouter vos propre traduction. Vous vous souvenez ? Cliquer sur la zone de saisie réservée à cette effet et mettez y votre traduction
+Vous avez toujours la possibilité d'ajouter vos propres traductions. Vous vous souvenez ? Cliquez sur la zone de saisie réservée à cet effet et mettez y votre traduction.
 
-##### Révision au sein des articless
+##### Révision au sein des articles
 
-Si vous avez déjà des mots enregistrés, il y a des chances que vous tombiez sur des mots surlignés au cours de votre lecture, comme ceci:
+Si vous avez déjà des mots enregistrés, il y a des chances que vous tombiez sur des mots surlignés au cours de votre lecture, comme ici :
 
 ![Highlighted](../_media/p_a_highlight.png)
 
@@ -303,7 +303,7 @@ Ces mots sont ceux que vous êtes en train d'apprendre et que vous avez besoin d
 
 ?> :information_desk_person: __info__ <br/>Certains mots dans le texte précédent sont des formes conjuguées de verbes (e.g. `rummages` ou `clamped`), d'autres sont des formes pluriels de noms (e.g. `hillsides`, `vowels`). En fait, lorsque vous traduisez une forme d'un mot, nous vous proposons en général sa forme la plus simple (infinitif/singulier) mais nous surlignons ensuite toutes les formes existantes lorsque vous tombez dessus au cours de votre navigation. De cette manière, vous ne râtez aucune opportunité de réviser vos mots. Dans les exercices, nous vous demandons en général les formes infinitives/singulières, ici `rummage` pour `rummages`. Aussi, nous essayons de ne surligner les mots que lorsqu'ils sont dans le bon contexte : si vous apprenez un mot en tant que verbe mais que vous tombez sur celui-ci utilisé comme adjectif, il ne sera pas surligné. 
 
-?> :information_desk_person: __info__ <br/>Certains mots, à l'instar de `remote` ou de `downtown` sont surlignés de manière moins marquée. Cela signifie que vous êtes en train de les apprendre mais que nous ne jugeons pas qu'ils soient nécessaires de les réviser à l'instant t car vous les avez revus suffisamment récemment. Passez votre souris dessus pour obtenir un rappel de leur traduction. 
+?> :information_desk_person: __info__ <br/>Certains mots, à l'instar de `remote` ou de `downtown` sont surlignés de manière moins marquée. Cela signifie que vous êtes en train de les apprendre mais que nous ne jugeons pas qu'il soit nécessaire de les réviser à l'instant t car vous les avez revus suffisamment récemment. Passez votre souris dessus pour obtenir un rappel de leur traduction. 
 
 ### Visiter le profil d'autres utilisateurs
 
@@ -311,30 +311,30 @@ Si vous connaissez le nom d'utilisateur de certains de vos amis, vous pouvez les
 
 ![Search user](../_media/p_u_search.png)
 
-Une fois sur leur profil, vous serait en mesure d'ajouter leurs mots et de copier leurs listes.
+Une fois sur leur profil, vous serez en mesure d'ajouter leurs mots et de copier leurs listes.
 
 #### Ajouter leurs mots
 
-Pour ajouter un mot, cliquer sur la croix verte à droite de sa ligne.
+Pour ajouter un mot, cliquez sur la croix verte à droite de sa ligne.
 
 ![User profile](../_media/p_u_profile.png)
 
 #### Copier leurs listes
 
-Pour voir le contenu d'une liste, cliquez sur son nom. Si vous désirez l'ajouter, positionner vous sur son nom avec votre curseur, une icône apparaît qui signifie `copier cette liste`. Cliquez dessus. Et voilà.
+Pour voir le contenu d'une liste, cliquez sur son nom. Si vous désirez l'ajouter, positionnez-vous sur son nom avec votre curseur, une icône apparaît qui signifie `copier cette liste`. Cliquez dessus. Et voilà.
 
 
 ![Copy list](../_media/p_u_add_list.png ':size=250px')
 
 #### Glisser-déplacer
 
-Vous pouvez aussi glisser-déplacer des mots ou des listes directement dans une de vos liste comme vu précédemment. 
+Vous pouvez aussi glisser-déplacer des mots ou des listes directement dans une de vos listes comme vu précédemment. 
 
 ### Pour les professeurs et les classes
 
 #### Les comptes professeurs
 
-*Les comptes professeurs sont des comptes spécifiques qui laissent les professeurs partager leurs contenus avec leurs étudiants (articles, listes et mots)et qui leur permettent de suivre les progrès de ceux-ci.*
+*Les comptes professeurs sont des comptes spécifiques qui laissent les professeurs partager leurs contenus avec leurs étudiants (articles, listes et mots) et qui leur permettent de suivre les progrès de ceux-ci.*
 
 Si vous avez un compte professeur, vous serez en mesure de voir vos classes en dessous de vos listes :
 
@@ -360,9 +360,9 @@ Lorsque vous cliquer sur un des groupes, vous pouvez partager du contenu avec de
 
 #### Compte étudiant
 
-*Les utilisateurs qui font partie d'une classe peuvent partager leurs contenus avec leur camarade.*
+*Les utilisateurs qui font partie d'une classe peuvent partager leurs contenus avec leurs camarades.*
 
-Pour partager une liste, pour partager une liste, cliquez droit sur son nom dans le menu, puis cliquez sur `partager liste`, vous devrait ensuite choisir si vous voulez la partager avec toute la classe ou seulement avec quelques élèves. Si vous partager quelque chose avec toute la classe, le professeur de celle-ci le recevra aussi. 
+Pour partager une liste, cliquez droit sur son nom dans le menu, puis cliquez sur `partager liste`, vous devrez ensuite choisir si vous voulez la partager avec toute la classe ou seulement avec quelques élèves. Si vous partagez quelque chose avec toute la classe, le professeur de celle-ci le recevra aussi. 
 
 ![Menu class](../_media/p_t_share.png  ':size=250px')
 
@@ -374,13 +374,13 @@ De la même manière, vous pouvez sélectionner des mots et les partager avec vo
 
 ## Installer une extension
 
-*Nos extensions sont disponible sur Chrome, Firefox, et Safari.*
+*Nos extensions sont disponibles sur Chrome, Firefox, et Safari.*
 
-Si vous n'avais pas encore installé notre extension, voici les liens auquel vous pouvez la trouver:
+Si vous n'avez pas encore installé notre extension, voici les liens auxquels vous pouvez la trouver:
 
 [Pour Chrome](https://chrome.google.com/webstore/detail/languagesai-extension/ocjbabgnfnblhgpddnnlhccmihnlombj ":ignore title") - [Pour Firefox](https://addons.mozilla.org/fr/firefox/addon/languages-ai-extension/ ":ignore title") - [Pour Safari](https://safari-extensions.apple.com/details/?id=www.languages.ai-Q6TC99QXA7 ":ignore title")
 
-Lorsque vous l'avez installée, elle doit apparaître dans votre barre d'outil, comme ici sur Chrome. Si l'icone, est bien là et bleu, cela veut dire que vous êtes bien connecté(e) à votre compte.
+Lorsque vous l'avez installée, elle doit apparaître dans votre barre d'outil, comme ici sur Chrome. Si l'icone, est bien là et qu'elle est bleue, cela veut dire que vous êtes bien connecté(e) à votre compte.
 
 ![Toolbar](../_media/p_e_toolbar.png )
 
@@ -395,17 +395,17 @@ Cliquez sur l'icône pour ouvrir le traducteur depuis n'importe quelle page web.
 
  * Si vous cliquez sur les flèches à double sens :left_right_arrow:, vous inversez le sens de traduction (i.e. en partant de votre langue d'apprentissage au lieu de votre langue natale par exemple).
 
- * Si vous avez déjà des listes vous pouvez cliquer sur `No list selected` et sélectionnez une de vos listes avant d'enregistrer un mot. Votre mot sera alors inclus à la liste sélectionnée.
+ * Si vous avez déjà des listes vous pouvez cliquer sur `No list selected` et sélectionner une de vos listes avant d'enregistrer un mot. Votre mot sera alors inclu à la liste sélectionnée.
 
- * Cliquer sur l'icône de `marque-page` en haut à droite du traducteur pour enregistrer dans vos articles la page que vous visitez.
+ * Cliquez sur l'icône de `marque-page` en haut à droite du traducteur pour enregistrer dans vos articles la page que vous visitez.
 
- * Cliquer sur `l'icône` son :sound: pour écouter le mot que vous traduisez.
+ * Cliquez sur l'icône `son` :sound: pour écouter le mot que vous traduisez.
 
-Les traductions, surlignements et processus de révision fonctionne de la même manière que dans [la partie article](?id=translate-words-while-you-read) de la plateforme web.
+Les traductions, surlignements et processus de révision fonctionnent de la même manière que dans [la partie article](?id=translate-words-while-you-read) de la plateforme web.
 
 ## Recommandation
 
-Parfois, pendant que vous lisez dans votre langue maternelle, nous vous recommandons des pages dans votre langue d'apprentissage afin que vous puissiez lire des choses qui vous intéressent tout en vous améliorant en langues.
+Parfois, pendant que vous lisez dans votre langue maternellele, nous vous recommandons des pages dans votre langue d'apprentissage afin que vous puissiez lire des choses qui vous intéressent tout en vous améliorant en langues.
 
 
 ![Reco](../_media/p_e_reco.png )
