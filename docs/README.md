@@ -1,8 +1,8 @@
 
 
-# Getting started
+# Languages.ai's documentation
 
-Welcome to Languages.ai documentation. :wave:
+Welcome to Languages.ai's documentation. :wave:
 
 # Languages.ai 101
 
@@ -23,10 +23,10 @@ In a word, it helps you find content adapted to your level and interests and giv
 
 ## Sign up
 
-First thing you will need to use Languages.ai is an account on the platform. You can register [here]( ":ignore title") with your email address and username.
+First thing you will need to use Languages.ai is an account on the platform. You can register [here](https://www.languages.ai/#signup-or-login ":ignore title") with your email address and username.
 You will have to enter your mother tongue and the language you want to improve in. 
 
-*If you already have an account, [log in]( ":ignore title"). if you have forgotten your password, [reset it]( ":ignore title"). *
+*If you already have an account, [log in](https://www.languages.ai/ ":ignore title"). if you have forgotten your password, [reset it](https://www.languages.ai/ ":ignore title"). *
 
 ## Tour of the platform
 
@@ -41,11 +41,11 @@ First, you need to enter the word you need to translate.
 ![Enter a word](_media/p_w_enter_word.png)
 
 
-#### Choose the translation sense
+#### Choose the translation direction
 
-If you prefer to start from your learning language instead of your mother tongue, click on the translation sense e.g `En>Fr` to switch it.
+If you prefer to start from your learning language instead of your mother tongue, click on the translation direction e.g `En>Fr` to switch it.
 
-![Switch translation sense](_media/p_w_change_language.png)
+![Switch translation direction](_media/p_w_change_language.png)
 
 
 #### Add your own translation
@@ -65,13 +65,13 @@ Once you have entered your translation, hit the `Enter` key to save it.
 
 To sort your words, click on the column title you want your words sorted by. Click again to have a descending sort.
 
-![Switch translation sense](_media/p_w_sort_words.png)
+![Sort](_media/p_w_sort_words.png)
 
 #### Go to your words
 
 If you are on any page of the website and want to go back to your words, click on `WORDS` in the sidebar on the left:
 
-![Switch translation sense](_media/p_w_go_to_words.png ':size=300px')
+![Go to words](_media/p_w_go_to_words.png ':size=300px')
 
 ### Review your words
 
@@ -199,7 +199,7 @@ Much like when you want to review all your words, you have a button `REVIEW THIS
 
 ##### List options
 
-When on a list page, you have some option next to the list name:
+When on a list page, you have some options next to the list name:
 
 ![List options](_media/p_l_options.png ':size=300px')
 
@@ -289,7 +289,7 @@ To translate it, double-click on it or click and hold while you drag your cursor
 
 
 
-You still have the possibility to add your own translation. Remember ? Just put your translation on the input aptly name and press enter.
+You still have the possibility to add your own translation. Remember ? Just put your translation on the input aptly named and press enter.
 
 ##### Review on your articles
 
@@ -305,7 +305,7 @@ These words are the ones you are learning and you need to review. Let's click on
 
 ?> :information_desk_person: __info__ <br/>Some of the words such as `remote` or `downtown` are highlighted in a lighter way. This means you are learning them but you don't have to review them right now according to our algorithm. Get a reminder of their meaning with a mouseover.
 
-### Visit other users profile
+### Visit other users' profile
 
 If you know some of your friends username you can search for them and go to their account page:
 
