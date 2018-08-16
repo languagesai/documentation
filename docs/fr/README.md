@@ -380,7 +380,7 @@ Si vous n'avez pas encore installé notre extension, voici les liens auxquels vo
 
 [Pour Chrome](https://chrome.google.com/webstore/detail/languagesai-extension/ocjbabgnfnblhgpddnnlhccmihnlombj ":ignore title") - [Pour Firefox](https://addons.mozilla.org/fr/firefox/addon/languages-ai-extension/ ":ignore title") - [Pour Safari](https://safari-extensions.apple.com/details/?id=www.languages.ai-Q6TC99QXA7 ":ignore title")
 
-Lorsque vous l'avez installée, elle doit apparaître dans votre barre d'outil, comme ici sur Chrome. Si l'icone, est bien là et qu'elle est bleue, cela veut dire que vous êtes bien connecté(e) à votre compte.
+Lorsque vous l'avez installée, elle doit apparaître dans votre barre d'outil, comme ici sur Chrome. Si l'icône est bien là et qu'elle est bleue, cela veut dire que vous êtes bien connecté(e) à votre compte.
 
 ![Toolbar](../_media/p_e_toolbar.png )
 
