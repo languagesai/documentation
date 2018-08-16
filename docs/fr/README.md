@@ -401,7 +401,7 @@ Cliquez sur l'icône pour ouvrir le traducteur depuis n'importe quelle page web.
 
  * Cliquez sur l'icône `son` :sound: pour écouter le mot que vous traduisez.
 
-Les traductions, surlignements et processus de révision fonctionnent de la même manière que dans [la partie article](?id=translate-words-while-you-read) de la plateforme web.
+Les traductions, surlignements et processus de révision fonctionnent de la même manière que dans [la partie article](fr/?id=traduire-des-mots-tout-en-lisant) de la plateforme web.
 
 ## Recommandation
 
